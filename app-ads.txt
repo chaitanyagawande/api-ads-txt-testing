@@ -1,0 +1,3 @@
+indexexchange.com, 183753, RESELLER # banner
+pubmatic.com, 156512, RESELLER, 5d62403b186f2ace # banner
+inventorypartnerdomain=yahoo.com
