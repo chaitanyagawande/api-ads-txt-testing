@@ -1,3 +1,3 @@
 indexexchange.com, 183753, RESELLER # banner
 pubmatic.com, 156512, RESELLER, 5d62403b186f2ace # banner
-inventorypartnerdomain=goofy-wescoff-b8f2ec.netlify.app
+inventorypartnerdomain=happy-morse-4ed899.netlify.app
